@@ -18,6 +18,9 @@ Mentor : Agistira Lamunde
 
 Tech Stack:
 - Python
+- HTML
+- CSS
+- JS
 
 Libraries :
 - Flask
